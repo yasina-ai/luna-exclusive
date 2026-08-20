@@ -1,0 +1,25 @@
+# 本站为私密成人内容站点，禁止所有搜索引擎与爬虫索引
+User-agent: *
+Disallow: /
+
+# 明确禁止常见爬虫
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /
+
+User-agent: facebot
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
